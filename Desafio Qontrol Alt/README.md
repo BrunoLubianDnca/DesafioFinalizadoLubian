@@ -1,6 +1,6 @@
 # Bot de Navegação no YouTube
 
-Este é um projeto Python que utiliza o framework Selenium para criar um bot que automatiza a navegação no YouTube. O bot é capaz de buscar por um canal específico, selecionar um vídeo aleatório desse canal e extrair informações como visualizações, descrição e hashtags.
+ utiliza o framework Selenium para criar um bot que automatiza a navegação no YouTube. O bot é capaz de buscar por um canal específico, selecionar um vídeo aleatório desse canal e extrair informações como visualizações, descrição e hashtags.
 
 ## Pré-requisitos
 
